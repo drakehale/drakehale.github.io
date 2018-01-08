@@ -1,0 +1,144 @@
+#wrapper {
+	margin:				0px;
+}
+
+#header {
+	background-color: 	black;
+	height:           	125px;
+	margin-top:			0px;
+	padding-top:		30px;
+	font-family:		calibri;
+	
+}
+#header h1{
+	margin: 			0 auto;
+	color:				white;
+	text-align:			center
+}
+
+
+#header h2 {
+	text-align:			center;
+	color:				white;
+	margin: 			0 auto;
+}
+
+#sidebar {
+	text-align: 		center;
+	color:				black;
+	border:				1px solid black;
+	width:				400px;
+	height:				445px;
+	float:				right;
+	padding:			30px;
+	border-radius:		10px;
+	margin-top:			30px;
+	Margin-bottom:		70px;
+	margin-right:		100px;
+	font-family: 		calibri;
+	line-height:		125px;
+	font-size:			30px;
+}
+
+#sidebaraboutme {
+	text-align: 		center;
+	color:				black;
+	border:				1px solid black;
+	width:				400px;
+	height:				540px;
+	float:				right;
+	padding:			30px;
+	border-radius:		10px;
+	margin-top:			67px;
+	Margin-bottom:		70px;
+	margin-right:		100px;
+	font-family: 		calibri;
+	line-height:		50px;
+	font-size:			20px;
+}
+
+#homelink {
+	text-align:			center;
+	font-size:			20px;
+	font-family:		calibri;
+}
+
+#resume {
+	margin-left:		250px;
+	margin-top:			20px;
+	margin-bottom:		20px;
+}
+#footer {
+	background-color: 	black;
+	height:           	75px;
+	padding-top:		40px;
+	padding-bottom:		40px;
+	font-family:		calibri;
+}
+
+#footer h1{
+	margin: 			0 auto;
+	color:				white;
+}
+
+#footer h3{
+	margin: 			0 auto;
+	color:				white;
+}
+
+iframe {
+	height:				900px;
+	width:				850px;
+}
+a {
+	text-decoration: 	none;
+}
+
+a:visited {
+	color:				black;
+}
+
+#headeraboutme {
+	background-color: 	black;
+	height:           	140px;
+	margin-top:			0px;
+	padding-top:		40px;
+	font-family:		calibri;
+	padding-right:		10px;
+}
+
+#headeraboutme h1{
+	margin: 			0 auto;
+	color:				white;
+	text-align:			center
+}
+
+#headeraboutme h3{
+	margin: 			0 auto;
+	color:				white;
+	text-align:			center;
+}
+
+#headeraboutme h2 {
+	text-align:			left;
+	color:				white;
+}
+
+#artifacts {
+	font-family:		calibri;
+}
+
+#artifacts h1 {
+	text-align:			center;
+}
+
+#artifacts h2 {
+	text-align:			left;
+	margin-left:		30px;
+}
+
+#artifacts p {
+	margin-left:		30px;
+	margin-right:		30px;
+}
+
